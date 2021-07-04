@@ -7,7 +7,9 @@ A Discord bot to get Thirukural quotes in both English and Tamil
 Is also able to return random kural quotes in English and Tamil"""
 
 client = commands.Bot(command_prefix = "!")
-token = "ODU2NTI5ODI2NTI1MjE2Nzgw.YNCXkA.JdTt8Cek27j715sIBBcz6-MevCg"
+
+#ADD BOT TOKEN WITHIN QUOTES BELOW
+token = ""
 
 #total_kurals hold the total number of Kurals 
 #available in a particular langauge
